@@ -1,3 +1,6 @@
+# Public Demo
+https://tranquil-churros-92bb36.netlify.app/
+
 # Accessing the API for Developers Testing
 
 1. Go to https://rapidapi.com/restyler/api/article-extractor-and-summarizer and either login or signup with your GitHub account.
